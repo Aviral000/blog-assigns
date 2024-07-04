@@ -2,7 +2,7 @@
   "name": "blog-assign",
   "version": "1.0.0",
   "description": "blog assignment",
-  "main": "index.js",
+  "main": "db/index.js",
   "scripts": {
     "start": "node db/index.js",
     "dev": "nodemon db/index.js"
