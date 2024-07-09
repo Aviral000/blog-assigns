@@ -15,6 +15,7 @@
   "author": "Aviral Malik",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.609.0",
     "aws-sdk": "^2.1656.0",
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
