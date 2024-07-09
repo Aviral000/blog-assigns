@@ -7,4 +7,5 @@ COPY package.json .
 COPY package-lock.json .
 RUN npm install
 COPY . .
+COPY .env .
 CMD npm start
